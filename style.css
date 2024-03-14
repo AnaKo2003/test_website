@@ -1,0 +1,46 @@
+@font-face 
+  {
+  font-family: Trebuchet MS; 
+  src: url(fonts/Trebuchet.ttf);
+  }
+body
+  {
+  font-family: Trebuchet MS;
+  background: #D2B48C;
+  }
+p
+  {
+  border: 1px solid rgb(223, 193, 113);
+  padding: 20px;
+  background: #FFE4B5 ;
+  border-radius: 10px;
+  }
+ul
+  {
+  border: 1px solid rgb(223, 193, 113);
+  padding: 20px;
+  background: #FFE4B5 ;
+  border-radius: 10px;
+  padding-left: 50px; 
+  
+  }
+ol
+  {
+  border: 1px solid rgb(223, 193, 113);
+  padding: 20px;
+  background: #FFE4B5 ;
+  border-radius: 10px;
+  padding-left: 50px; 
+  
+  }
+div 
+  {
+  height: auto; 
+  width: auto; 
+  padding-left: 300px;
+  padding-right: 300px;
+  }
+h1 
+{ text-align: center }
+h2 
+{ text-align: center }
